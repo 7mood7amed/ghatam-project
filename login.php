@@ -122,7 +122,7 @@
             <label for="password">كلمة المرور : </label>
             <input type="password" name="password" required placeholder="ادخل كلمة المرور">
 
-            <button type="submit">تسجيل</button>
+            <button type="submit">دخول</button>
         </form>
 
         <div class="register-link">
